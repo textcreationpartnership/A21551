@@ -1,0 +1,504 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here begynneth a lytyll treatyse schortely compyled and called ars moriendi that is to saye the craft for to deye for the helthe of mannes sowle.</title>
+            <title>Ars moriendi. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1491</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21551</idno>
+            <idno type="STC">STC 786</idno>
+            <idno type="STC">ESTC S108366</idno>
+            <idno type="EEBO-CITATION">99844025</idno>
+            <idno type="PROQUEST">99844025</idno>
+            <idno type="VID">8807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 161:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here begynneth a lytyll treatyse schortely compyled and called ars moriendi that is to saye the craft for to deye for the helthe of mannes sowle.</title>
+                  <title>Ars moriendi. English.</title>
+                  <author>Caxton, William, ca. 1422-1491.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>W. Caxton,</publisher>
+                  <pubPlace>[Westminster :</pubPlace>
+                  <date>1491]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from STC.</note>
+                  <note>A translation, by William Caxton, from the original French.</note>
+                  <note>Signatures: A.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="death" type="treatise">
+            <pb facs="tcp:8807:1"/>
+            <pb facs="tcp:8807:1"/>
+            <head>¶ here begynneth a lytyll treatyſe ſchortely
+compyled and called ars moriendi / that is to ſaye the craft for to deye for
+the helthe of mannes ſowle.</head>
+            <p>WHan ony of lyklyhode ſhal deye / thenne is moſte
+neceſſarye to haue a ſpecyall frende / the whiche wyll hertly helpe and
+praye for hym &amp; therwyth counſeyll the ſyke for the wele of his ſowle
+/ &amp; more ouer to ſee that alle other ſo do aboute hym / or ellys
+quyckly for to make hem departe. ¶ Thenne is to be remem<g ref="char:EOLunhyphen"/>bred the grete
+benefeytes of god done for hym vnto that tyme / and ſpecyally of y<hi rend="sup">e</hi>
+paſſyon of our lorde / and thenne is to be rede ſomme ſtory of
+ſayntes or the vij pſalmes wyth y<hi rend="sup">e</hi> letanye or our lady pſalter in parte
+or hole wyth other And euer the ymage of the crucyfyxe is to be hadde in his
+ſyght wyth other. And holy wa<g ref="char:EOLunhyphen"/>ter is oftymes to be caſt vpon and about hym
+for auoydyng of euyll ſpirytes y<hi rend="sup">e</hi> whiche then<g ref="char:cmbAbbrStroke">̄</g>e be full redy to take theyr
+auauntage of the ſowle yf they may. ¶ And thenne and euer make hym crye
+for mercy and grace &amp; for the <pb facs="tcp:8807:2"/>helpe
+of our bleſſyd Lady &amp; of other ſayntes in whome afore he hadde a
+ſynguler truſt &amp; loue and therupon to make his prayers yf he may.
+¶ Whan deth cometh or ony greuous pan<g ref="char:EOLhyphen"/>gys / or other grete ſykenes / 
+thenne prayer or de<g ref="char:EOLunhyphen"/>uocion aſſwageth / wherfore it is wyſdome for one to
+praye afore ony ſykeneſſe come / &amp; alſo whan one may in his
+ſykenes yf he wyll not be deceyued. ¶ So he is happy &amp; may be glad
+that ſuche a tyme of moſt nede hath a feytfull frende &amp; that wyll ſay
+beſyde y<hi rend="sup">e</hi> prayers a fore reherſed &amp; cauſe other alſo to ſay
+deuoutly in re<g ref="char:EOLunhyphen"/>membrau<g ref="char:cmbAbbrStroke">̄</g>ce of y<hi rend="sup">e</hi> charyte of <abbr>Ihu</abbr> cryſt &amp; of
+his paſſyon &amp; for to haue y<hi rend="sup">e</hi> rader his mercy &amp; helpe iij pr<g ref="char:cmbAbbrStroke">̄</g>
+noſters &amp; iij auees with a credo And ther<g ref="char:EOLunhyphen"/>with to exhorte him by a
+preſt or for nede by an other in the maner as it foloweth.</p>
+            <p>BRoder or ſyſter remembre wel that god ſeyth by his
+prophete &amp; eua<g ref="char:cmbAbbrStroke">̄</g>gelyſt. Blyſ<g ref="char:EOLunhyphen"/>ſed be tho that deye &amp; departe in our
+lorde / that is to ſay from the worlde and his pleaſurys and deye in the
+trewe fayth of the chyrche and repentaunce for hyr ſynnes. ¶ Syr ye haue
+<pb facs="tcp:8807:2"/>grete cauſe to be glad for to departe
+from this wretchyd worlde and fall of alle myſery / and thynke that ye nedes
+muſt departe / and deſyre hertely to be wyth Iheſu cryſt your maker
+re<g ref="char:EOLhyphen"/>demer / &amp; lord god / for he ſhal gyue to you now your enherytau<g ref="char:cmbAbbrStroke">̄</g>ce
+that he dyde bye for you with his precyous paſſyon &amp; blood / wherfore
+this tyme of your departyng ſhall be better to you than the tyme of your
+byrthe / for now all ſy<g ref="char:EOLunhyphen"/>keneſſe ſorow and trouble ſhall departe now
+from you for euer. Therfore be not agreuyd wyth youre ſykeneſſe and take
+it not wyth grutchyng but take it rather by all gladneſſe ¶ See at all
+tymes that ye be ſtabſe in your faythe and byleue and ſay your Credo yf
+that ye may or ellys deſyre a nother hertely to doo it for you here afore vs
+openly. And arme you euer wyth the ſygne of y<hi rend="sup">e</hi> croſſe <g ref="char:cross">✚</g> as a
+cryſten man for your defence ageynſt youre ghooſtly enemyes / in y<hi rend="sup">e</hi>
+whiche doyng / god wyll be gret<g ref="char:EOLunhyphen"/>ly pleaſed &amp; the rather take you for one
+of his folke by proteccyon and grace &amp; as his chylde of ſaluacyon. ¶
+Haue euer a good &amp; trew by<g ref="char:EOLunhyphen"/>leue / &amp; no thyng may be Impoſſyble vnto
+you <pb facs="tcp:8807:3"/>And euer beware that ye fall not in
+dyſpeyre for that gretly wolde dyſpleaſe god / &amp; can not be remedyed.
+And remembre y<hi rend="sup">e</hi> ſynnes done a fore tyme ſhall neuer hurt you as to
+dampna<g ref="char:EOLunhyphen"/>cyon / yf they pleaſe you not now &amp; that ye be ſory for hem.
+¶ Saynt Ierome ſeyth / yf one ſholde take his ſekeneſſe or his
+deth with grut<g ref="char:EOLunhyphen"/>chyng / it is a token that he loueth not god ſuf<g ref="char:EOLunhyphen"/>fycyently / 
+alle is ryghtwyſe that we ſuffre. ¶ Deſyre with ſaynt auſtyn of
+our lorde here to be cutte wyth trybulacyon &amp; to be brenned wyth ſykenes
+&amp; ſorowe / ſoo y<hi rend="sup">e</hi> ye may be ſaued herafter for euer. ¶ Now meke
+your ſelf &amp; be ſory that ye haue ben ſo vnkynde to pleaſe &amp; to
+kepe his co<g ref="char:cmbAbbrStroke">̄</g>maundementes &amp; preſume not as of your ſelf ony
+goodneſſe / &amp; ſay wyth all me keneſſe thus. Good lord Iheſu
+cryſt I knowle<g ref="char:EOLunhyphen"/>che that I haue ſynned greuouſly / &amp; by thy gra<g ref="char:EOLunhyphen"/>ce I
+wyll gladly amende me yf I ſhold lyue / ha<g ref="char:EOLunhyphen"/>ue mercy now of me for thy bytter
+paſſyon.</p>
+            <p>¶ Than aſke hym thyſe queſtyons folowyn<g ref="char:EOLunhyphen"/>ge a fore his
+deth.</p>
+            <p>BE ye glad that ye ſhal deye in criſten by<g ref="char:EOLunhyphen"/>leue: Lete hym
+anſwere / ye / knowe ye y<hi rend="sup">t</hi> 
+               <pb facs="tcp:8807:3"/>ye haue
+not ſo well lyued as ye ſhold / ye / haue ye wyll to amende yf that ye
+ſholde lyue / ye / by<g ref="char:EOLunhyphen"/>leue ye y<hi rend="sup">t</hi> Iheſu cryſte god ſone of heuen was
+borne of bleſſyd marye / ye / Byleue ye alſo that Iheſu cryſt deyed
+vpon y<hi rend="sup">e</hi> croſſe to bye mannes ſoule on good fryday / ye / Do ye thanke
+god therfore / ye / Byleue ye y<hi rend="sup">t</hi> ye may not be ſaued but by his paſſyon
+&amp; deth / ye / ¶ As long as y<hi rend="sup">e</hi> ſoule is in your body thanke god for
+his deth &amp; haue a ſure truſt by it &amp; his paſſyon to be
+ſa<g ref="char:EOLunhyphen"/>ued. And counſeyll hym to ſay yf y<hi rend="sup">t</hi> he may thyes folowyng wordes of
+grete vertue.</p>
+            <p>YPut cryſtys paſſyon betwyx me &amp; myne euyll werkys / 
+&amp; betwyx me &amp; his wrathe Now lorde god be mercyfull to me a ſynner.
+¶ The praſe of our lord <abbr>ihu</abbr> cryſt &amp; y<hi rend="sup">e</hi> v<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>tue of
+his paſſyon wyth y<hi rend="sup">e</hi> ſygne of y<hi rend="sup">e</hi> holy croſſe &amp; y<hi rend="sup">e</hi> vndefyled
+V<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>gynyte of blyſſed mary his moder &amp; y<hi rend="sup">e</hi> blyſſyng of all
+ſayntꝭ / &amp; y<hi rend="sup">e</hi> ꝓteccyon of all holy angels wyth y<hi rend="sup">e</hi> helpe
+&amp; <g ref="char:abpre">p̄</g>yers of al ſayntꝭ be betwyxe me &amp; all myn enemyes now &amp;
+in y<hi rend="sup">e</hi> houre of my deth &amp; departyng Amen ¶ Alſo thyes verſe
+folowyng be of grete vertue in the tyme of deth / &amp; to be ſayd of the
+ſyke yf he may <pb facs="tcp:8807:4"/>or by an other for
+hym. Dirupiſti dn<g ref="char:cmbAbbrStroke">̄</g>e vincu<g ref="char:EOLhyphen"/>la mea. tibi ſacrificabo hoſtia<g ref="char:cmbAbbrStroke">̄</g> laudis et
+nome<g ref="char:cmbAbbrStroke">̄</g> dm<g ref="char:cmbAbbrStroke">̄</g> inuocabo. Deus ꝓpiciꝰ eſto michi pcco<g ref="char:cmbAbbrStroke">̄</g>ri Dn<g ref="char:cmbAbbrStroke">̄</g>e ihu<g ref="char:cmbAbbrStroke">̄</g> xp<g ref="char:cmbAbbrStroke">̄</g>e
+Ego cognoſco me grauiter pec<g ref="char:EOLhyphen"/>caſſe. et libenter volo me emendare ꝑ
+gra<g ref="char:cmbAbbrStroke">̄</g>z tua<g ref="char:cmbAbbrStroke">̄</g> Miſerere mei ꝓpt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> amara<g ref="char:cmbAbbrStroke">̄</g> paſſione<g ref="char:cmbAbbrStroke">̄</g> tua<g ref="char:cmbAbbrStroke">̄</g>. Dn<g ref="char:cmbAbbrStroke">̄</g>e ihu<g ref="char:cmbAbbrStroke">̄</g>
+redemiſti nos in ſanguine tuo laus ſit ti<g ref="char:EOLunhyphen"/>bi ꝓ amara paſſione
+tua. Largire claru<g ref="char:cmbAbbrStroke">̄</g> veſ<g ref="char:EOLhyphen"/>pere. quo vita nuſ<expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan> decidat. <expan>
+                  <am>
+                     <g ref="char:absed"/>
+                  </am>
+                  <ex>sed</ex>
+               </expan> 
+               <g ref="char:abpre">p̄</g>miu<g ref="char:cmbAbbrStroke">̄</g>
+mortꝭ ſa<g ref="char:EOLunhyphen"/>cre ꝑennis inſtet gloria. Alſo to oure Lady Maria
+plena gre<g ref="char:cmbAbbrStroke">̄</g> mater miſericordie. tu nos ab hoſte ꝓtege. et in hora
+mortis ſuſcipe. And at laſt: In manus tuas dn<g ref="char:cmbAbbrStroke">̄</g>e co<g ref="char:cmbAbbrStroke">̄</g>mendo ſpiritu<g ref="char:cmbAbbrStroke">̄</g> meu<g ref="char:cmbAbbrStroke">̄</g>.
+In noi<g ref="char:cmbAbbrStroke">̄</g>e pri<g ref="char:cmbAbbrStroke">̄</g>s et filij &amp; ſpu<g ref="char:cmbAbbrStroke">̄</g>s ſancti ame<g ref="char:cmbAbbrStroke">̄</g>.</p>
+         </div>
+         <div n="sacrament" type="treatise">
+            <head>¶ Here foloweth a ſhorte and ſwete remem<g ref="char:EOLhyphen"/>braunce of
+the ſacrament of the aulter or that it be receyued of the ſeek perſone or
+of ony o<g ref="char:EOLhyphen"/>ther afore there comunyng.</head>
+            <p>WElcome bleſſyd Iheſu my lord god &amp; ſa<g ref="char:EOLunhyphen"/>uyour / to
+whom is apropryed all mercy &amp; pyte. Remembre good lorde how freyll my
+nature and ſubſtaunce is / and haue mercy &amp; pyte on me grete ſynner / 
+after thy grete mer<g ref="char:EOLhyphen"/>cyes <pb facs="tcp:8807:4"/>and for thy
+bytter paſſyon / for I knowſe che &amp; byleue faythfully as a cryſten
+chylde of thyn / that thou here in fourme of brede / is the ſa<g ref="char:EOLunhyphen"/>me my lord god
+y<hi rend="sup">e</hi> of thy goodneſſe come doun from heuen &amp; was borne &amp; toke my
+nature of blyſſed virgyne Mary &amp; dyed for me &amp; roſe the thyrde
+day &amp; after aſcended in to heuen and ther<g ref="char:cmbAbbrStroke">̄</g> reygneth wyth the fader &amp;
+the holy ghooſt &amp; all ſayntꝭ for euer i<g ref="char:cmbAbbrStroke">̄</g>mortall / y<hi rend="sup">e</hi> whiche for
+our gre<g ref="char:EOLunhyphen"/>te helth freylte &amp; dayly tranſgreſſyon &amp; in reme<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>braunce
+of thy grete loue &amp; paſſyon haſt ordey<g ref="char:EOLunhyphen"/>ned this thy bleſſyd body
+in this wyſe to be ta<g ref="char:EOLhyphen"/>ken of me &amp; of all other wyllyng to be ſaued
+¶ I knowe well y<hi rend="sup">t</hi> I am fer<g ref="char:cmbAbbrStroke">̄</g> vnworthy to be called thy child or ſeruau<g ref="char:cmbAbbrStroke">̄</g>t
+for y<hi rend="sup">e</hi> grete multytu<g ref="char:EOLunhyphen"/>de of my ſynnes / how be it y<hi rend="sup">u</hi> mayſt make me
+rightfull &amp; able y<hi rend="sup">t</hi> whiche only of ſynners haſt made grete
+ſayntꝭ of heuen By y<hi rend="sup">t</hi> thy grete po<g ref="char:EOLunhyphen"/>wer &amp; myght grau<g ref="char:cmbAbbrStroke">̄</g>te me now to
+take y<hi rend="sup">t</hi> meke<g ref="char:EOLunhyphen"/>ly i<g ref="char:cmbAbbrStroke">̄</g> all fere &amp; wyth waylyng for my ſynnes &amp; wyth a
+ſpirytuall gladnes. Come now good lord in to my herte &amp; clenſe it of al
+ſynne / entre in to my ſoule and make it hole / and therwyth ſanctyfye me
+wythin &amp; wythout and be my de<g ref="char:EOLunhyphen"/>fence <pb facs="tcp:8807:5"/>for
+body &amp; ſoule rebukyng &amp; puttyng a ſy<g ref="char:EOLunhyphen"/>de all myn enemyes fer from
+y<hi rend="sup">e</hi> preſence of thy power / y<hi rend="sup">t</hi> I thenne ſo defended by y<hi rend="sup">e</hi> may haue a free
+&amp; ſure paſſage to thy kyngdome / where I ſhall not ſee y<hi rend="sup">e</hi> in
+this fourme by myſtery / but I ſhall ſee the face to face where I ſhall
+neuer hungre ne thurſt / but euer be in ioye with y<hi rend="sup">e</hi> &amp; thyne / there to
+gloryfye the &amp; to worſhyppe y<hi rend="sup">e</hi> to lawde &amp; to preyſe y<hi rend="sup">e</hi> world
+withouten ende am<g ref="char:cmbAbbrStroke">̄</g>. ¶ By thyes folowyng aen<g ref="char:cmbAbbrStroke">̄</g> venyall ſynnes taken awaye
+yf they be done deuoutly.</p>
+            <p>In takyng holy water holy brede / alſo by ſeyeng of the
+Pater nr<g ref="char:cmbAbbrStroke">̄</g> / &amp; ſpirytually for this clauſe &amp; petyco<g ref="char:cmbAbbrStroke">̄</g>n. Dimitte nobis
+debita nra<g ref="char:cmbAbbrStroke">̄</g> ſi<g ref="char:EOLunhyphen"/>cut &amp; nos dimittimꝰ debitoribꝰ nri<g ref="char:cmbAbbrStroke">̄</g>s. ¶ And
+alſo by knocking of y<hi rend="sup">e</hi> breſt for onis ſinnes &amp; alſo for ſeyeng
+of Deꝰ ꝓpiciꝰ eſto in pcco<g ref="char:cmbAbbrStroke">̄</g>ri / &amp; by ſeyeng of the
+comyne Confiteor at maſſe or at other tyme. Alſo by receyuyng of ony of
+y<hi rend="sup">e</hi> ſac<g ref="char:cmbAbbrStroke">̄</g>mente of the chyrche / &amp; ſpecyally of the body of our lord.
+Alſo by heryng of maſſe / &amp; by the ſyght of the ſac<g ref="char:cmbAbbrStroke">̄</g>ment of y<hi rend="sup">e</hi>
+aulter there or ellys where By the bliſſyng of a biſſhop or of a
+preſt at his maſſe. By ony of the dedes of mercy. by <pb facs="tcp:8807:5"/>pardones
+/ by martyrdom / &amp; penaunce / by forgy<g ref="char:EOLunhyphen"/>ueneſſe to a treſpaſour / by
+good enſample gy<g ref="char:EOLhyphen"/>uyng / or for conuertyng of other to good lyf. by pacyence
+thankyng in trouble / and by con<g ref="char:EOLhyphen"/>trycyon for ſynnes wyth dyſpleaſure of
+hem. And for euery good dede dooeng wyth good entent and deuocyon Amen.</p>
+         </div>
+         <div n="scripture" type="treatise">
+            <head>¶ The famoſe doctour Iohan gerſon Chau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>celler of
+parys takyng his grounde of holy ſcrypture and accordyng wyth holy doctours
+ſeyth thus.</head>
+            <p>OVre mooſt mercyfull fader lorde god / knowyng our freylte
+&amp; redyneſſe to all ſynne / is euer redy duryng this wretchyd &amp;
+mortall lyf by many &amp; dyuerſe wayes to for<g ref="char:EOLhyphen"/>gyue vs eu<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> our
+treſpace &amp; to graunte &amp; gyue vs his grace / yf ſo be that trewly we
+do ordey<g ref="char:EOLhyphen"/>ne vnto hym thyes iij vertues folowyng / ſoo that they be ſayde
+&amp; done wyth all the herte de<g ref="char:EOLhyphen"/>uoutly. The fyrſt is that thou ſhalt ſay
+Bleſ<g ref="char:EOLunhyphen"/>ſed lord I knowleche that I haue ſynned gre<g ref="char:EOLhyphen"/>uouſly ageynſt thy
+goodneſſe thus and thus reherſyng thy ſynnes / &amp; I am
+dyſpleaſed ther<g ref="char:EOLhyphen"/>wyth by reaſon of the whiche I do penaunce &amp;
+<pb facs="tcp:8807:6"/>wyll do / for I knowe well that I haue
+gre<g ref="char:EOLhyphen"/>uyd the mercyfull lord &amp; broken thy commaun<g ref="char:EOLunhyphen"/>dementes in the whiche thou
+onely ought to be worſhypped. The ſeconde / ſay this. Good lord I haue a
+good purpoſe and deſyre wyth thy helpe / to be ryght ware herafter that I
+fall not in to ſynne / &amp; I entende to flee the occaſyons after the
+poſſybylyte of my power. The iij. is this. Gracyous lord I haue good wyll
+to make an hole confeſſyon of all my ſynnes / whan place and tyme
+conuenyent may be had accordyng to thy commaundementes and all holy chyrche.
+Thyes iij verytees or trewthys who ſoeuer ſayth with his herte vnfeynyngly
+in what place y<hi rend="sup">t</hi> euer he be / he may be ſure that he is in the ſtate of
+grace and ſaluacyon and that he ſhall haue euerlaſtyng lyf though all he
+had done all the ſynnes of the world. And yf he deceſſyd wythout ony
+other confeſſyon for lack of a preeſt as ſlepyng or ſodeyne deth / he
+ſholde be ſaue ſuffryng a fore harde payne in purgatorye. Wherfore it is
+good cou<g ref="char:cmbAbbrStroke">̄</g>ſeyll that euery cryſten man ones or twyes on the day erly or late
+or ellys at leſt on holy dayes exa<g ref="char:EOLhyphen"/>men <pb facs="tcp:8807:6"/>his
+conſcyence / and remembre yf that he may with al his herte vnfeynyngly this
+ſay iij trowthis / &amp; yf he can ſo do / he may be ſure that he is in
+the ſtate of grace / and yf he may not / but is in wyll to ſynne ageyn / 
+and to ha<g ref="char:EOLunhyphen"/>ue his delectacion with dede / and wyll not flee the occaſyons of
+mortall ſynnes / &amp; ſo drow<g ref="char:EOLhyphen"/>ned in ſynne wyll not aryſe / ſuche
+one may be certeyne that the Pope may not aſſoyle hym. not for thy good it
+is that ſuche one vſe moche prayer and gyue almeſſe and to do other
+good dedes after theyr power / that god the rather may lyghten theyr hertes and
+the ſoner torne to goodneſſe Amen.</p>
+         </div>
+         <div type="prayer">
+            <head>¶ Here foloweth a ſynguler prayer to be ſay<g ref="char:EOLunhyphen"/>de in
+the feſt of the dedycacyon of ony chirche or at ony other tyme.</head>
+            <p>O Myghtyfull and mooſt pyteuous lorde god Iheſu Cryſte
+whiche of thy grete goodneſſe hath ordeyned alle thynges that ben in heuen
+and in erthe for the vſe and we<g ref="char:EOLhyphen"/>le of man / to the entente and ende that they
+ſhall ſerue hym / and he the allone. And how be it that in eche place y<hi rend="sup">u</hi>
+ought to be ſerued and <pb facs="tcp:8807:7"/>worſhypped / 
+yet it pleaſeth the moche more ſuche ſeruyce &amp; prayer in a place or
+chirche that is dedyfyed / enueyled &amp; halowed by a byſſhop and his
+mynyſtres wyth ympnes / pſalmes &amp; letanyes / &amp; other ſuffragyes
+wyth theyr myſ<g ref="char:EOLunhyphen"/>teryall obſeruauntꝭ ordeyned therfore / and for by
+cauſe thy precyouſe body and blood is ther<g ref="char:cmbAbbrStroke">̄</g> dayly offred vp vnto thy fader
+in heuen i<g ref="char:cmbAbbrStroke">̄</g> kno<g ref="char:EOLunhyphen"/>wleche of thy grete loue &amp; paſſyon that thou haddeſt
+for man. ¶ And yf it pleaſed the in the olde teſtament wyth thyn
+angels nyght &amp; day to be aſſyſtent and to here the prayers of thy
+ſeruauntes in the temple / where was but the fleſſhe and blode of
+vnreſonable beeſtys of<g ref="char:EOLunhyphen"/>fred in ſacrefyce / moche more we truſte that
+thou wyll vyſyte &amp; be aſſyſtent to vs nyght &amp; day wyth thyne
+angels in this thy newe tem<g ref="char:EOLunhyphen"/>ple and chyrche / where thyne owne body and very
+blood dayly is offred vp vnto thy fa<g ref="char:EOLhyphen"/>der in heuen / and therwith receyued
+accordyng to thy deſyre and wyll of vs thy ſeruauntes though ſynners for
+our ſaluaco<g ref="char:cmbAbbrStroke">̄</g>n &amp; therto here y<hi rend="sup">e</hi> prayers of vs &amp; other y<hi rend="sup">t</hi> entende to
+loue wor<g ref="char:EOLunhyphen"/>ſhyp &amp; thanke y<hi rend="sup">e</hi> i<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> beſt maner we can or may
+<pb facs="tcp:8807:7"/>¶ Now then<g ref="char:cmbAbbrStroke">̄</g>e bleſſyd lord full
+of all mercy &amp; pyte / that wyll that we calle vpon the &amp; hath
+promyſed to here the prayers of the ſeruauntes graunte now and at all tymes
+to vs &amp; to all other of thy ſuperhabundant mercy and gra<g ref="char:EOLunhyphen"/>ce / that who
+ſoeuer come vnto this chyrche or to ony other wyth deuocyon &amp; praye in
+what caas that euer they be / proſperyte / temptacyon / trouble / or
+aduerſyte / that theyr petycyon beho<g ref="char:EOLhyphen"/>uefull and neceſſary prayer may be
+herde / and that the pardone graunted to them may in her ſoules and bodyes
+wyth all other thynges ap<g ref="char:EOLunhyphen"/>perteynyng vnto them may take effect in eue<g ref="char:EOLunhyphen"/>ry parte
+gracyouſly. ¶ And ouer this grau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>te vs of thy pyte / peaſe and
+accorde in the chyr<g ref="char:EOLhyphen"/>che &amp; realme / and to our founders / faders and moders
+/ frendes / benefactours / &amp; to all cryſten ſoules / forgyuenes of
+theyr ſynnes wyth releſ<g ref="char:EOLunhyphen"/>ſe of theyr paynes &amp; ioye ꝑpetuel. And
+fynally we deſyre of thy bou<g ref="char:cmbAbbrStroke">̄</g>teuous goodneſſe ſeſona<g ref="char:EOLunhyphen"/>ble weder wyth
+fruytꝭ &amp; to exclude from vs peſ<g ref="char:EOLunhyphen"/>tylence hungre moreyne &amp;
+ſykeneſſe &amp; all ene<g ref="char:EOLhyphen"/>myes ghooſtly &amp; bodely &amp; therwyth
+grau<g ref="char:cmbAbbrStroke">̄</g>te vs of thy grace good lyf &amp; endeleſſe blyſſe. Amen</p>
+         </div>
+         <div n="humility" type="degrees">
+            <pb facs="tcp:8807:8"/>
+            <head>¶ Here ben the xii degrees of humylyte:</head>
+            <p>Caſt thy ſyght dounward / &amp; ſhewe mekeneſſe bothe
+in thy herte and body.</p>
+            <p>Beware of hyghe ſpeche &amp; clamorous / &amp; ſee y<hi rend="sup">e</hi> thy
+wordes be fewe / well ſette / &amp; reſonable.</p>
+            <p>Be not light for to laughe / but vſe eu<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>
+ſadneſſe</p>
+            <p>Be ſtylle &amp; kepe ſylence / to nede requyre y<hi rend="sup">t</hi>
+an<g ref="char:EOLhyphen"/>ſwere muſt be hadde.</p>
+            <p>Kepe well y<hi rend="sup">e</hi> comyn rule as the holy place hath vſed.</p>
+            <p>Thynke the moſt vyleſt of al other &amp; ſo ꝓnou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ce
+thy ſelf.</p>
+            <p>Knowleche y<hi rend="sup">e</hi> vnworthy &amp; not ꝓfitable to ony thyng / 
+&amp; ſo byleue in dede.</p>
+            <p>Make oft confeſſyon of thy ſynnes / &amp; y<hi rend="sup">t</hi> wyth grate
+contrycyon.</p>
+            <p>Kepe pacyence in thyn obedye<g ref="char:cmbAbbrStroke">̄</g>ce / at all thy pay<g ref="char:EOLunhyphen"/>nes &amp;
+trouble:</p>
+            <p>To al peple be y<hi rend="sup">u</hi> ſudyett for thy maiſters ſake</p>
+            <p>Thyn one wyll forſake it / &amp; loue it i<g ref="char:cmbAbbrStroke">̄</g> no wyſe And
+eu<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>
+            </p>
+            <p>kepe y<hi rend="sup">e</hi> fro<g ref="char:cmbAbbrStroke">̄</g> ſynne for fere of him a boue</p>
+         </div>
+         <div n="obedience" type="degrees">
+            <head>¶ The vii degrees of obedyence.</head>
+            <p>The fyrſt is to do that is co<g ref="char:cmbAbbrStroke">̄</g>maunded of thy ſo<g ref="char:EOLunhyphen"/>uerayne
+wythout grutchyng.</p>
+            <p>The ſeconde is to make none excepco<g ref="char:cmbAbbrStroke">̄</g>n / nether of y<hi rend="sup">e</hi> tyme
+nether of y<hi rend="sup">e</hi> dede that is to be done.</p>
+            <p>The iij is to be glad &amp; cherefull in thy herte to
+<pb facs="tcp:8807:8"/>do ſuche dedes co<g ref="char:cmbAbbrStroke">̄</g>maunded without ony
+compul<g ref="char:EOLunhyphen"/>ſyon ſettyng a ſyde all beſtly condycyons.</p>
+            <p>The iiij is to be quycke in ſuche dede dooeng le<g ref="char:EOLunhyphen"/>uyng all
+other occupacyons for that tyme or ony maner of excuſe.</p>
+            <p>The fyfte is to do ſuche thynges wyth all thy myght &amp;
+power / thynkyng y<hi rend="sup">t</hi> thy reward ſhall be grete.</p>
+            <p>The vj is to doo hem alſo wyth all mekeneſſe bothe in
+ſpiryte &amp; geſture.</p>
+            <p>The vij is to contynue ſuche obedye<g ref="char:cmbAbbrStroke">̄</g>ce to y<hi rend="sup">e</hi> en<g ref="char:EOLunhyphen"/>de of thy lyf
+euer folowyng thy mayſter Iheſu cryſt y<hi rend="sup">t</hi> was made obedyent for thy
+ſynne vn<g ref="char:EOLunhyphen"/>to deth.</p>
+         </div>
+         <div n="patience" type="degrees">
+            <head>¶ The xii degrees of pacyence.</head>
+            <p>The xij degrees of pacyence y<hi rend="sup">u</hi> mayſt beholde her</p>
+            <p>To euyl don to y<hi rend="sup">e</hi> or adu<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>ſyte make no reſiſte<g ref="char:cmbAbbrStroke">̄</g>ce</p>
+            <p>Do not euyl for euyl ne gyue an euyl anſwer<g ref="char:cmbAbbrStroke">̄</g>
+            </p>
+            <p>Loue thyn enemy &amp; do good for euyll to hym in
+recompence.</p>
+            <p>Grutche not ageynſt aduerſyte but take it as ſwete
+encence.</p>
+            <p>Accounpt it for beſt medycyne / &amp; be gladde in thy
+payne.</p>
+            <p>Thanke god therfore / &amp; loke for more wyth all
+benyuolence.</p>
+            <pb facs="tcp:8807:9"/>
+            <p>And whan thou haſt no grutchyng in thyſe thenne mayſt thou
+be fayne.</p>
+         </div>
+         <div n="charity" type="degrees">
+            <head>The xv degrees of charyte.</head>
+            <p>Thyſe make ꝑfyt charyte / aft<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> poules
+epiſtyll</p>
+            <p>Be pacyente contynuell for ony aduerſyte</p>
+            <p>Lyberall to the nedy / and good doo for euyll.</p>
+            <p>Of other me<g ref="char:cmbAbbrStroke">̄</g>nys welfare enuy not ne by heuy</p>
+            <p>Lete not by thy crokydneſſe good werkes to multyplye.</p>
+            <p>Swell not inwarde by malyce yf thy neygh<g ref="char:EOLhyphen"/>bour proſpere.</p>
+            <p>Loue to be in low degree &amp; lothe to be hyghe.</p>
+            <p>To labour for other as thi ſelf do thi vtt<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan> deuoir</p>
+            <p>Be not meuyd for ony cauſe to vengau<g ref="char:cmbAbbrStroke">̄</g>ce or to yre.</p>
+            <p>Thynke none euyll to an other for ony prouo<g ref="char:EOLunhyphen"/>cacyon.</p>
+            <p>Ioy y<hi rend="sup">u</hi> not in wyckedneſſe but ſorwe y<hi rend="sup">u</hi> rader.</p>
+            <p>Be glad in trouthe &amp; ryghtwyſneſſe &amp; hate ſy
+mulacyon.</p>
+            <p>For ſuche right bere ad<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>ſite or oni tribulaco<g ref="char:cmbAbbrStroke">̄</g>n</p>
+            <p>To that y<hi rend="sup">e</hi> chirche techith y<hi rend="sup">e</hi> put ful credulyte.</p>
+            <p>That god hath ꝓmyſed truſt it well withou
+defallacyon.</p>
+            <p>In hope abydyng his reward and eu<expan>
+                  <am>
+                     <g ref="char:aber"/>
+                  </am>
+                  <ex>er</ex>
+               </expan>laſtyng glorie.</p>
+            <trailer>Amen Explicit.</trailer>
+            <pb facs="tcp:8807:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
